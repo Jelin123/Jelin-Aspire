@@ -1,6 +1,6 @@
 
 public class VariablesPractice {
-
+//keep going.... way to go
 	public static void main(String[] args) {
 
 		byte b=-109;
